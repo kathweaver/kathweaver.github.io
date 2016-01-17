@@ -10,10 +10,6 @@ title: Kathleen Weaver
 email: kathleen@kweaver.org
 description: > # this means to ignore newlines until "baseurl:"
  Github site for Kathleen Weaver
- I am a retired teacher according to the state of Texas.
- I teach computer science for Johns Hopkins University CTY Online Programs
- Working on the OpenSource project Open Live Writer
- I have a few projects of my own.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: kathweaver
