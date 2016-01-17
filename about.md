@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+According to the state of Texas, I'm a retired teacher.  I taught 23 years for Dallas ISD.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I currently teach computer science and web design for Johns Hopkins University, 
+CTY Online Programs.  I have been with them for over 1 year.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am working on an open source project, and have a few Windows Phone apps on the marketplace.
+
+I also run beagles in agility -- Macy and Dulce.
